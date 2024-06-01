@@ -1,0 +1,18 @@
+
+
+@charset "utf-8";
+#red {
+    color:  #FF0000;
+    font-size: xx-large;
+    text-align: center;
+}
+#blue {
+    color: 	#66B3FF;
+    font-size: xx-large;
+    text-align: center;
+}
+#green {
+    color: 	#4EFEB3;
+    font-size: x-large;
+    text-align: right;
+}
